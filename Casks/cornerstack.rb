@@ -1,6 +1,6 @@
 cask "cornerstack" do
-  version "1.1.0"
-  sha256 "3f9de178e1f0a0933deb25c803c49afc2ddf495faa352059811ae43e6b959a6c"
+  version "1.2.0"
+  sha256 "a90b773d5b09eda528ede2b5a7945542bd486b24cb828ceabeef86843212940d"
 
   url "https://github.com/nemcaya/cornerstack/releases/download/v#{version}/Cornerstack-#{version}.dmg"
   name "Cornerstack"
